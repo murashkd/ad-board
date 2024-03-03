@@ -1,4 +1,4 @@
-package com.murashkina;
+package com.murashkina.user;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
